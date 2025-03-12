@@ -1,5 +1,5 @@
 from datetime import datetime
-import random, smtplib, pandas ,os
+import random, smtplib, pandas
 
 my_email = "yousif.abdeljawad@codepath.org"
 app_password = "nlup uqaw abyf lszc"
